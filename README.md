@@ -10,7 +10,6 @@ A machine learning web application that predicts a student's exam score based on
 Student academic performance can be influenced by several factors such as study hours, class attendance, sleep patterns, study methods, and learning environment.
 
 This project uses a trained **XGBoost regression model** to predict a student's exam score from selected features.
----
 
 ## 🚀 Features
 
