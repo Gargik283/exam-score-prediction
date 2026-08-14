@@ -1,19 +1,15 @@
 # 🎓 Exam Score Prediction using XGBoost
+A machine learning web application that predicts a student's exam score based on academic and lifestyle factors.
 
-A machine learning web application that predicts a student's **exam score** based on study habits, class attendance, sleep patterns, study method, and facility rating.
+## 🌐 Live Demo
 
-The application is built using **Python, XGBoost, Pandas, Pickle, and Streamlit** and provides an interactive interface where users can enter student details and receive an estimated exam score.
-
----
+🚀 **[Try the Live Application](https://exam-score-prediction-fep4.streamlit.app/)**
 
 ## 📌 Project Overview
 
-Student academic performance can be influenced by several factors such as study hours, class attendance, sleep, study methods, and learning environment.
+Student academic performance can be influenced by several factors such as study hours, class attendance, sleep patterns, study methods, and learning environment.
 
-This project uses a trained **XGBoost regression model** to predict a student's exam score from selected academic and lifestyle features.
-
-The trained model and label encoders are saved as `.pkl` files and loaded by the Streamlit application to make real-time predictions.
-
+This project uses a trained **XGBoost regression model** to predict a student's exam score from selected features.
 ---
 
 ## 🚀 Features
